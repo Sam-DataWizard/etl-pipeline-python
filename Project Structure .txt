@@ -1,0 +1,7 @@
+etl-pipeline-python/
+├── data/
+│   └── sample_data.csv
+├── etl_pipeline.py
+├── requirements.txt
+├── README.md
+└── .gitignore
